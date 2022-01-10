@@ -1,0 +1,3 @@
+Heart Attack Prediction using Artificial Neural Networks
+
+To predict and identify patients with heart disease, we used various artificial neural networks (ANN) such as Single Layer Perceptron, Multilayer Perceptron, Radial Basis Function and Long Short-Term Memory (Recurrent neural network). The proposed model's strength was very satisfying, as it was able to predict evidence of developing heart disease in a given person using RBF and MLP, which demonstrated a high degree of precision as opposed to other used methods such as LSTM. The given heart disease prediction system improves medical care and reduces the cost.
